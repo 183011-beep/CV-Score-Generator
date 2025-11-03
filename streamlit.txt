@@ -1,7 +1,0 @@
-streamlit
-pandas
-python-docx
-reportlab
-rapidfuzz
-PyPDF2
-plotly
