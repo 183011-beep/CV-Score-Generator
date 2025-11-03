@@ -1,0 +1,7 @@
+streamlit
+python-docx
+pandas
+reportlab
+rapidfuzz
+PyPDF2
+plotly
