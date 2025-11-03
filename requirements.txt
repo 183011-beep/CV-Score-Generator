@@ -1,7 +1,0 @@
-streamlit
-python-docx
-pandas
-reportlab
-rapidfuzz
-plotly
-matplotlib
